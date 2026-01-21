@@ -33,10 +33,14 @@
 
 </p>
 
-## Sobre mi
+## Sobre mí
 
-- 🖥️ Ensamblador de sistemas electrónicos.
-- 🛠️ Nociones básicas en HTML, CSS y JavaScript para desarrollo web sencillo.
-- 📌 Nociones básicas en modelo entidad-relación, modelo relacional y MySQL.
-- 🛜 Nociones básicas en redes informáticas, servicios de red y enrutamiento básico tanto estatico como dinamico.
-- 📚 Conocimientos sólidos de Ofimática.
+- 🖥️ Formación en montaje, mantenimiento y administración básica de sistemas informáticos y servidores.
+- 🛠️ Nociones de desarrollo web y aplicaciones web mediante HTML, CSS y JavaScript, así como el uso de CMS como WordPress.
+- 🗄️ Conocimientos en bases de datos: modelo entidad-relación, modelo relacional y uso básico de MySQL.
+- 🛜 Conocimientos en redes locales: direccionamiento IP, subnetting, dispositivos de red, servicios de red y enrutamiento estático y dinámico, con prácticas en Cisco Packet Tracer.
+- 🪟 Administración básica de Windows Server: Active Directory, dominios, usuarios, grupos, permisos y recursos compartidos.
+- 🐧 Administración básica de sistemas Linux (Ubuntu Server): servicios, copias de seguridad, NFS, cuotas de disco y directorio OpenLDAP.
+- 🔐 Fundamentos de seguridad informática: cifrado, protección de contraseñas, análisis de puertos, captura de tráfico y análisis de vulnerabilidades.
+- 📚 Conocimientos sólidos de ofimática avanzada: Word, Excel, PowerPoint, Canva y Genially.
+- 🎨 Nociones de diseño y edición multimedia: Adobe Illustrator, Renderforest y edición de vídeo con Sony Vegas y Filmora.
